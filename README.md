@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there
+
+I study Applied Mathematics at KTH Royal Institute of Technology in Stockholm.
 
 <!--
 **viktor-lundqvist/viktor-lundqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
